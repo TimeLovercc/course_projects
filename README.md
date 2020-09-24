@@ -2,6 +2,8 @@
 
 #### 科研相关
 
+- [图神经网络和小样本学习](./科研相关/图神经网络和小样本学习.pptx)
+
 - [A Comparison of Different Networks Based on the Graphlet Correlation Distance](./科研相关/基于子图相关距离的网络分类.pdf)
 
 - [Graph Convolution Network Based on Graphlets Structural Information](./科研相关/基于结构信息的图卷积网络.pdf)
